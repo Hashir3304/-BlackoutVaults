@@ -1,0 +1,1 @@
+// Endpoint for scan result
